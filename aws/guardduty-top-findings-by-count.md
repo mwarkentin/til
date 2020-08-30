@@ -1,4 +1,4 @@
-# Finding the most common GuardDuty findings
+# Finding the top GuardDuty findings by count
 
 You can get your GuardDuty detector IDs with this command:
 
