@@ -1,4 +1,4 @@
-I was looking for something like `aws sts get-caller-identity` for GCP"s Python SDK. It doesn"t look like they have a direct equivalent, but you can get similar details by doing the following.
+I was looking for something like `aws sts get-caller-identity` for GCP's Python SDK. It doesn't look like they have a direct equivalent, but you can get similar details by doing the following.
 
 ```python
 credentials, project_id = google.auth.default()
