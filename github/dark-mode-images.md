@@ -2,7 +2,7 @@
 
 Today I came across [this tweet](https://twitter.com/diegohaz/status/1516516547342352391) which suggested that you could specify separate images for light/dark mode in markdown files on Github.
 
-I went ahead and tried it out on Sentry's repo and it worked great on Github: https://github.com/getsentry/sentry/pull/33799
+I went ahead and tried it out on Sentry's repo and it [worked great on Github](https://github.com/getsentry/sentry/pull/33799).
 
 ## Before
 
