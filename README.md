@@ -11,3 +11,7 @@ My Today I Learned snippets. Inspired by [jbranchaud/til](https://github.com/jbr
 ## GCP
 
 * [`aws sts get-caller-identity` equivalent](gcp/aws-sts-get-caller-identity-equivalent.md) - 2022-03-19
+
+## Github
+
+* [Customizing images in Github markdown files for dark mode](github/dark-mode-images.md) - 2022-04-20
