@@ -1,4 +1,4 @@
-# Today I Learned
+# [Today I Learned](https://til.tobalabs.com)
 
 My Today I Learned snippets. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til](https://github.com/simonw/til).
 
