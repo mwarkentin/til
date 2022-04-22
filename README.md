@@ -15,3 +15,7 @@ My Today I Learned snippets. Inspired by [jbranchaud/til](https://github.com/jbr
 ## Github
 
 * [Customizing images in Github markdown files for dark mode](github/dark-mode-images.md) - 2022-04-20
+
+## Salt
+
+* [Running commands host-by-host (serially) with salt-ssh](salt/salt-ssh-host-by-host.md) - 2022-04-22
