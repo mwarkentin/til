@@ -1,3 +1,5 @@
+## Renaming and organizing Lattice performance review packet PDFs
+
 We do performance reviews at Sentry twice a year using [Lattice](https://lattice.com), so I figured - why not automate the 30s process of renaming and organizing the downloaded packets PDF into my Dropbox.
 
 I was able to set up a rule in [Hazel](https://www.noodlesoft.com) to do this:
